@@ -1,0 +1,20 @@
+p{
+  background-color: pink;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.cool{
+  font-size: 25px;
+}
+
+.two{
+  color: blue;
+  font-size: 35px;
+}
+
+.four{
+  background-color: lightgreen;
+  font-size: 25px;
+  font-weight: bold;
+}
