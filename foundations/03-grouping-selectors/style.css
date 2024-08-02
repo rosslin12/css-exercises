@@ -1,0 +1,16 @@
+button{
+  width: 200px;
+  height: 60px;
+  font-size: 30px;
+  border-color: black;
+}
+
+.one{
+  background-color: black;
+  color: white;
+}
+
+.two{
+  background-color: yellow;
+  width: 220px;
+}
